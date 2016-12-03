@@ -1,17 +1,19 @@
 # pebble
 So long, and thanks for all the fish!
 
-¯\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 
 ###Apps/Watchfaces:
 
-/u/magmapus archived 14K apps and watchfaces from the Pebble App Store,
+/u/magmapus archived 14K apps and watchfaces from the Pebble App Store, 102 are missing! This is because those PBWs are in their respective Android/iOS companion Apps and are pushed to the Pebble using pebbleKit.
 
 Magnet Link:
 
-    Magnet: magnet:?xt=urn:btih:71e5250e6459aba1a10d8d7264099ea0cd993801&dn=Pebble%20AppStore&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Ftracker.blackunicorn.xyz%3A6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce
+    magnet:?xt=urn:btih:71e5250e6459aba1a10d8d7264099ea0cd993801&dn=Pebble%20AppStore&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Ftracker.blackunicorn.xyz%3A6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce
     
 Reddit thread: https://www.reddit.com/r/pebble/comments/5g0gmx/in_light_of_recent_news_i_archived_the_app_store/
+
+Website: I will push the PBWs to a website for easier access and downloading. 
 
 ###Developer Resources:
 
